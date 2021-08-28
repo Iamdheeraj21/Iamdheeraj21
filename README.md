@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Pajapat</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Let's Talk](https://github.com/Iamdheeraj21/TalkNow)
+- 🔭 I’m currently working on [TalkNow](https://github.com/Iamdheeraj21/TalkNow)
 
 - 🌱 I’m currently learning **Flutter , MongoDb ,SpringBoot etc**
 
